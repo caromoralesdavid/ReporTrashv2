@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186044340160",
+    "project_id": "reportrashv2",
+    "storage_bucket": "reportrashv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186044340160:android:803a68509c26b23fc3da25",
+        "android_client_info": {
+          "package_name": "com.pulsedigital.reportrash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0QG4oQQXilkmAVF5oGwBU613LgDpe-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

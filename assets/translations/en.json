@@ -1,0 +1,83 @@
+{
+  "common": {
+    "email": "Email",
+    "password": "Password",
+    "enterEmail": "Enter your email",
+    "enterPassword": "Enter your password",
+    "location": "Cartagena, Col."
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "noAccount": "Don't have an account? Create one",
+      "errorLogin": "Error logging in."
+    },
+    "register": {
+      "title": "Register",
+      "fullName": "Full Name",
+      "enterFullName": "Enter your full name",
+      "confirmPassword": "Confirm Password",
+      "confirmYourPassword": "Confirm your password",
+      "alreadyHaveAccount": "Already have an account? Login",
+      "passwordsDoNotMatch": "Passwords do not match. Please make sure they are the same."
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "reportsMade": "About ReportTrash",
+    "changeEmail": "Change email",
+    "changePassword": "Change password",
+    "shareReporttrash": "Share Reporttrash",
+    "shareReporttrashText": "Share the Reporttrash app",
+    "signOff": "Sign off"
+  },
+
+  "report_dialog": {
+    "title": "Report Case",
+    "title_label": "Title",
+    "enter_title": "Enter the title",
+    "description_label": "Case Description",
+    "enter_description": "Enter the description",
+    "select_date": "Select a date",
+    "no_photo_selected": "No photo selected.",
+    "submit_report": "Submit Report"
+  },
+
+  "change_credentials": {
+    "change_email": "CHANGE EMAIL",
+    "change_password": "CHANGE PASSWORD",
+    "current_email": "Current Email",
+    "enter_current_email": "Enter your current email",
+    "current_password": "Current Password",
+    "enter_current_password": "Enter your current password",
+    "new_email": "New Email",
+    "enter_new_email": "Enter your new email",
+    "new_password": "New Password",
+    "enter_new_password": "Enter your new password",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+
+  "about_dialog": {
+    "title": "About ReporTrash",
+    "description": "ReporTrash is a mobile application that allows users to report and locate trash in their community. Our mission is to promote a cleaner and more sustainable environment through citizen participation.",
+    "features_title": "Main Features:",
+    "feature_1": "Report trash with location and photos",
+    "feature_2": "View trash reports on an interactive map",
+    "feature_3": "Receive notifications about cleanup events",
+    "contact_title": "Contact Us:",
+    "contact_email": "Email: info@reporTrash.com",
+    "contact_phone": "Phone: +1 (555) 123-4567"
+  },
+
+  "marker_details_dialog": {
+    "details_report": "Details Report",
+    "photos": "Photos:",
+    "reported_by": "Reported by:",
+    "location": "Location:",
+    "date": "Date:",
+    "time": "Time:"
+  }
+}
+
+

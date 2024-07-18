@@ -1,0 +1,84 @@
+{
+  "common": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "enterEmail": "Ingresa tu correo electrónico",
+    "enterPassword": "Ingresa tu contraseña",
+    "location": "Cartagena, Col."
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar sesión",
+      "noAccount": "¿No tienes una cuenta? Crea una",
+      "errorLogin": "Error al iniciar sesión."
+    },
+    "register": {
+      "title": "Registrarse",
+      "fullName": "Nombre Completo",
+      "enterFullName": "Ingresa tu nombre completo",
+      "confirmPassword": "Confirmar Contraseña",
+      "confirmYourPassword": "Confirma tu contraseña",
+      "alreadyHaveAccount": "¿Ya tienes una cuenta? Inicia sesión",
+      "passwordsDoNotMatch": "Las contraseñas no coinciden. Por favor, verifica que sean iguales."
+    }
+  },
+  "profile": {
+    "title": "Perfil",
+    "reportsMade": "Acerca de ReportTrash",
+    "changeEmail": "Cambiar correo electrónico",
+    "changePassword": "Cambiar contraseña",
+    "shareReporttrash": "Compartir Reporttrash",
+    "shareReporttrashText": "Comparte la aplicación Reporttrash",
+    "signOff": "Cerrar sesión"
+  },
+
+  "report_dialog": {
+    "title": "Reportar Caso",
+    "title_label": "Título",
+    "enter_title": "Ingrese el título",
+    "description_label": "Descripción del caso",
+    "enter_description": "Ingrese la descripción",
+    "select_date": "Seleccione una fecha",
+    "no_photo_selected": "No se ha seleccionado una foto.",
+    "submit_report": "Enviar Reporte"
+  },
+
+  "change_credentials": {
+    "change_email": "CAMBIAR EMAIL",
+    "change_password": "CAMBIAR CONTRASEÑA",
+    "current_email": "Email actual",
+    "enter_current_email": "Ingresa tu email actual",
+    "current_password": "Contraseña actual",
+    "enter_current_password": "Ingresa tu contraseña actual",
+    "new_email": "Nuevo email",
+    "enter_new_email": "Ingresa tu nuevo email",
+    "new_password": "Nueva contraseña",
+    "enter_new_password": "Ingresa tu nueva contraseña",
+    "cancel": "Cancelar",
+    "save": "Guardar"
+  },
+
+  "about_dialog": {
+    "title": "Acerca de ReporTrash",
+    "description": "ReporTrash es una aplicación móvil que permite a los usuarios reportar y localizar basura en su comunidad. Nuestra misión es promover un ambiente más limpio y sostenible a través de la participación ciudadana.",
+    "features_title": "Características principales:",
+    "feature_1": "Reportar basura con ubicación y fotos",
+    "feature_2": "Ver reportes de basura en un mapa interactivo",
+    "feature_3": "Recibir notificaciones sobre jornadas de limpieza",
+    "contact_title": "Contáctanos:",
+    "contact_email": "Email: info@reporTrash.com",
+    "contact_phone": "Teléfono: +1 (555) 123-4567"
+  },
+
+  "marker_details_dialog": {
+    "details_report": "Detalles del Reporte",
+    "photos": "Fotos:",
+    "reported_by": "Reportado por:",
+    "location": "Ubicación:",
+    "date": "Fecha:",
+    "time": "Hora:"
+  }
+}
+
+
+

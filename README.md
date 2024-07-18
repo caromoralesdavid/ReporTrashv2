@@ -22,18 +22,18 @@ Para clonar y ejecutar esta aplicación, necesitarás [Git](https://git-scm.com)
 git clone https://github.com/caromoralesdavid/ReporTrashv2.git
 cd ReporTrashv2 
 
-### Contribuir
-## Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+Contribuir
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-## 1. Haz un fork del proyecto.
-## 2.Crea una rama para tu nueva funcionalidad (git checkout -b feature/nueva-funcionalidad).
-## 3. Realiza tus cambios y haz commit (git commit -m 'Añadir nueva funcionalidad').
-## 4. Sube tus cambios (git push origin feature/nueva-funcionalidad).
-## 5. Abre un Pull Request.
-## 6. Licencia
-## 7. Este proyecto está bajo la Licencia MIT. Mira el archivo LICENSE para más detalles.
+1. Haz un fork del proyecto.
+2.Crea una rama para tu nueva funcionalidad (git checkout -b feature/nueva-funcionalidad).
+3. Realiza tus cambios y haz commit (git commit -m 'Añadir nueva funcionalidad').
+4. Sube tus cambios (git push origin feature/nueva-funcionalidad).
+5. Abre un Pull Request.
+6. Licencia
+7. Este proyecto está bajo la Licencia MIT. Mira el archivo LICENSE para más detalles.
 
-## Contacto
-## Caro Morales David - @tus-usuario - tu-email@example.com
+Contacto
+Caro Morales David - @caromoralesdavid - ing.davidcaro
 
-### royecto Link: https://github.com/caromoralesdavid/ReporTrashv2
+Proyecto Link: https://github.com/caromoralesdavid/ReporTrashv2

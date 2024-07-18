@@ -23,17 +23,17 @@ git clone https://github.com/caromoralesdavid/ReporTrashv2.git
 cd ReporTrashv2 
 
 Contribuir
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-1. Haz un fork del proyecto.
-2.Crea una rama para tu nueva funcionalidad (git checkout -b feature/nueva-funcionalidad).
-3. Realiza tus cambios y haz commit (git commit -m 'Añadir nueva funcionalidad').
-4. Sube tus cambios (git push origin feature/nueva-funcionalidad).
-5. Abre un Pull Request.
-6. Licencia
-7. Este proyecto está bajo la Licencia MIT. Mira el archivo LICENSE para más detalles.
+ 1. Haz un fork del proyecto.
+ 2.Crea una rama para tu nueva funcionalidad (git checkout -b feature/nueva-funcionalidad).
+ 3. Realiza tus cambios y haz commit (git commit -m 'Añadir nueva funcionalidad').
+ 4. Sube tus cambios (git push origin feature/nueva-funcionalidad).
+ 5. Abre un Pull Request.
+ 6. Licencia
+ 7. Este proyecto está bajo la Licencia MIT. Mira el archivo LICENSE para más detalles.
 
 Contacto
-Caro Morales David - @caromoralesdavid - ing.davidcaro
+Caro Morales David - @tus-usuario - tu-email@example.com
 
 Proyecto Link: https://github.com/caromoralesdavid/ReporTrashv2

@@ -34,6 +34,6 @@ si deseas contribuir a este proyecto, por favor sigue estos pasos:
  7. Este proyecto está bajo la Licencia MIT. Mira el archivo LICENSE para más detalles.
 
 Contacto
-Caro Morales David - @tus-usuario - tu-email@example.com
+Caro Morales David - 
 
 Proyecto Link: https://github.com/caromoralesdavid/ReporTrashv2
